@@ -30,7 +30,8 @@ The workflow applies several geoprocessing operations to select, clip, buffer, a
 6. Calculate the number of selected colleges using Get Count.
 7. ## 🖼️ Model Preview
 
-![GIS Spatial Analysis ModelBuilder](modelbuilder-spatial-analysis.png)
+![GIS Spatial Analysis ModelBuilder](./model_1_github.png)
+
 ## 🎯 Key Skills
 
 - GIS Spatial Analysis
